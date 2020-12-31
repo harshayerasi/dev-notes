@@ -8,7 +8,6 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'harshayerasi', // Usually your GitHub org/user name.
   projectName: 'dev-notes', // Usually your repo name.
-  routeBasePath: "", // docs-only mode
   themeConfig: {
     navbar: {
       title: 'Dev notes',
