@@ -1,13 +1,13 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Dev notes',
+  tagline: 'Developer notes',
+  url: 'https://dev-notes-yerasi.vercel.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'harshayerasi', // Usually your GitHub org/user name.
+  projectName: 'dev-notes', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
@@ -18,7 +18,7 @@ module.exports = {
       items: [
         {
           to: 'docs/',
-          activeBasePath: 'docs',
+          activeBasePath: '',
           label: 'Docs',
           position: 'left',
         },
