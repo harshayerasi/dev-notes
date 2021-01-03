@@ -2,7 +2,7 @@
 id: doc1
 title: Style Guide
 sidebar_label: Style Guide
-slug: /
+#slug: /
 ---
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
@@ -86,7 +86,7 @@ Inline-style: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src
 
 Reference-style: ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 2'
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 Images from any folder can be used by providing path to file. Path should be relative to markdown file.
 
