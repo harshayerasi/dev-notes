@@ -14,6 +14,17 @@ module.exports = {
           items: ['artificial-intelligence/statistics-essentials-for-data-science/estimators-and-estimates']
         }
       ],
+    },
+    {
+      type: 'category',
+      label: 'Azure',
+      items: [
+        {
+          type: 'category',
+          label: 'AZ 900',
+          items: ['azure/az-900/azure-fundamentals-cloud-computing']
+        }
+      ],
     }
   ]
 };
