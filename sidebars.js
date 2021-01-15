@@ -29,6 +29,10 @@ module.exports = {
     },
     {
       type: "doc",
+      id: "docker-cheat-sheet",
+    },
+    {
+      type: "doc",
       id: "symbols",
     }
   ]
