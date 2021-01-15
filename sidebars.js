@@ -11,7 +11,8 @@ module.exports = {
         {
           type: 'category',
           label: 'Statistics Essentials for Data science',
-          items: ['artificial-intelligence/statistics-essentials-for-data-science/estimators-and-estimates']
+          items: ['artificial-intelligence/statistics-essentials-for-data-science/estimators-and-estimates',
+                  'artificial-intelligence/statistics-essentials-for-data-science/hypothesis-testing']
         }
       ],
     },
@@ -25,6 +26,10 @@ module.exports = {
           items: ['azure/az-900/azure-fundamentals-cloud-computing']
         }
       ],
+    },
+    {
+      type: "doc",
+      id: "symbols",
     }
   ]
 };
