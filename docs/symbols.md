@@ -13,5 +13,5 @@ sidebar_label: Symbols
 | ≤ | Less than or equal to ||
 | ≠ | Not equal to ||
 | α | Significance level||
-| β |||
-| σ |||
+| β | Probability of Type 2 error ||
+| σ | Significance score ||

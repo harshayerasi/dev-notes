@@ -34,6 +34,10 @@ module.exports = {
     {
       type: "doc",
       id: "symbols",
+    },
+    {
+      type: "doc",
+      id: "tools",
     }
   ]
 };
