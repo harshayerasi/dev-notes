@@ -12,7 +12,8 @@ module.exports = {
           type: 'category',
           label: 'Statistics Essentials for Data science',
           items: ['artificial-intelligence/statistics-essentials-for-data-science/estimators-and-estimates',
-                  'artificial-intelligence/statistics-essentials-for-data-science/hypothesis-testing']
+                  'artificial-intelligence/statistics-essentials-for-data-science/hypothesis-testing',
+                  'artificial-intelligence/statistics-essentials-for-data-science/regression-analysis']
         }
       ],
     },

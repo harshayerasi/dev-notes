@@ -68,8 +68,8 @@ If you expect to have little or no mistakes then select α=0.01
       <th colspan="2"> The Truth </th>
     </tr>
     <tr>
-      <th> H<sub>0</sub>True </th>
-      <th> H<sub>0</sub>False </th>
+      <th> H<sub>0</sub> True </th>
+      <th> H<sub>0</sub> False </th>
     </tr>
   </thead>
   <tbody>
