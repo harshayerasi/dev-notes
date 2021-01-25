@@ -14,6 +14,11 @@ module.exports = {
           items: ['artificial-intelligence/statistics-essentials-for-data-science/estimators-and-estimates',
                   'artificial-intelligence/statistics-essentials-for-data-science/hypothesis-testing',
                   'artificial-intelligence/statistics-essentials-for-data-science/regression-analysis']
+        },
+        {
+          type: 'category',
+          label: 'Data science with Python',
+          items: ['artificial-intelligence/data-science-with-python/session1']
         }
       ],
     },

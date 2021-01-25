@@ -201,3 +201,12 @@ This is a caution
 This is a warning
 
 :::
+
+import Mermaid from '@theme/Mermaid';
+
+<Mermaid chart={`
+	graph LR;
+		A-->B;
+		B-->C;
+		B-->D[plop lanflz eknlzeknfz];
+`}/>
