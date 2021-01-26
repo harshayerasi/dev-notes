@@ -18,7 +18,8 @@ module.exports = {
         {
           type: 'category',
           label: 'Data science with Python',
-          items: ['artificial-intelligence/data-science-with-python/session1']
+          items: ['artificial-intelligence/data-science-with-python/session1',
+                  'artificial-intelligence/data-science-with-python/session2']
         }
       ],
     },
