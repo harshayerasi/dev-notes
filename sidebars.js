@@ -19,7 +19,9 @@ module.exports = {
           type: 'category',
           label: 'Data science with Python',
           items: ['artificial-intelligence/data-science-with-python/session1',
-                  'artificial-intelligence/data-science-with-python/session2']
+                  'artificial-intelligence/data-science-with-python/session2',
+                  'artificial-intelligence/data-science-with-python/session3',
+                  'artificial-intelligence/data-science-with-python/numpy']
         }
       ],
     },
@@ -33,6 +35,11 @@ module.exports = {
           items: ['azure/az-900/azure-fundamentals-cloud-computing']
         }
       ],
+    },
+    {
+      type: 'category',
+      label: 'Kubernetes',
+      items: ['kubernetes/kubernetes-fundamentals']
     },
     {
       type: "doc",
