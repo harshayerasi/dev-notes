@@ -30,3 +30,5 @@ Anaconda comes with Numpy preinstalled
 | `print(type(np_pl))` | *<class 'numpy.ndarray'>* | Type of the Array |
 | `print(np_pl.dtype)` | *<U4* | Type of elements inside the Array |
 | `print(np_pl)` | *['Java' 'C++' 'C']* | Printing the array |
+| `np_2d_array.ravel()` | | Converts 2 or more dimenensional arrays to single dimensional arrays. Ravel will not modify the original array |
+| `np_2d_array.reshape(3, 4)` |  | Reshapes an array with 12 size to have 3 rows and 4 columns |
