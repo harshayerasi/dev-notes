@@ -42,6 +42,11 @@ module.exports = {
       items: ['kubernetes/kubernetes-fundamentals']
     },
     {
+      type: 'category',
+      label: 'React',
+      items: ['react/react-introduction']
+    },
+    {
       type: "doc",
       id: "docker-cheat-sheet",
     },

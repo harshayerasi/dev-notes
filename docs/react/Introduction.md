@@ -16,3 +16,13 @@ create-react-app myapp
 ```bash
 npx create-react-app myapp
 ```
+
+### Install Tachyons
+```bash
+npm install tachyons
+```
+
+#### Importing tachyons
+```javascript
+import 'tachyons';
+```
