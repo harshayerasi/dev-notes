@@ -53,8 +53,8 @@ yarn lint --fix
 
 Visual studio code also has a plugin for eslint and prettier, install these
 
-https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint  
 https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 
-Also configure in settings to auto format whenever the code is saved
+Also configure in settings to auto format whenever the code is saved  
 If this doesn't work set default formatter by right clicking on the file.
