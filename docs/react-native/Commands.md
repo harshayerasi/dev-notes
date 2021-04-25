@@ -58,3 +58,11 @@ https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 
 Also configure in settings to auto format whenever the code is saved  
 If this doesn't work set default formatter by right clicking on the file.
+
+### React native paper
+Lot of reusable components
+https://callstack.github.io/react-native-paper/
+
+```node
+yarn add react-native-paper
+```
